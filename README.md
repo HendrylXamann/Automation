@@ -20,4 +20,4 @@ obs: Dentro do laço tem um try except que localiza linhas que não foram encont
 
 Vídeo da aplicação funcionando: <br>
 Youtube: https://youtu.be/qpeJCwrS6WA <br>
-Linkedin: 
+Linkedin: https://www.linkedin.com/posts/hendryl-roberto-44885a1b3_selenium-python-automaaexaetocomercial-activity-7084581640433188864-jELh?utm_source=share&utm_medium=member_desktop
