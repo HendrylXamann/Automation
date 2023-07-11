@@ -4,9 +4,9 @@ Este projeto foi desenvolvido para atender a uma demanda interna da empresa em q
 
 Funcionalidades:
 •	A aplicação abre o site da empresa e aguarda 40 segundos para permitir que o funcionário faça o login. <br>
-•	Em seguida, realiza consultas no sistema com base em números obtidos de uma base de dados interna.
-•	A aplicação coleta 3 informações relacionadas a cada número consultado e as salva em uma linha de um arquivo Excel.
-•	Esse processo é repetido 100 vezes, conforme a quantidade estipulada.
+•	Em seguida, realiza consultas no sistema com base em números obtidos de uma base de dados interna.<br>
+•	A aplicação coleta 3 informações relacionadas a cada número consultado e as salva em uma linha de um arquivo Excel.<br>
+•	Esse processo é repetido 100 vezes, conforme a quantidade estipulada.<br>
 
 Estrutura do Código:
 O código está organizado da seguinte forma:
