@@ -1,9 +1,9 @@
 # Webscraping1
 Automação de Webscraping para Demandas Internas de uma empresa
-Este projeto foi desenvolvido para atender a uma demanda interna da empresa em que trabalho. Com essa aplicação, conseguimos economizar de 2 a 3 horas de trabalho de um dos nossos colaboradores. A automação recolhe 3 informações do cliente e consolida em um arquivo excel, mas faz isso N vezes.
+Este projeto foi desenvolvido para atender a uma demanda interna da empresa em que trabalho. Com essa aplicação, conseguimos economizar de 2 a 3 horas de trabalho de um dos nossos colaboradores. A automação coleta 3 informações do cliente e as consolida em um arquivo Excel, repetindo esse processo N vezes.
 
 Funcionalidades:
-•	A aplicação abre o site da empresa e aguarda 40 segundos para permitir que o funcionário faça o login.
+•	A aplicação abre o site da empresa e aguarda 40 segundos para permitir que o funcionário faça o login. <br>
 •	Em seguida, realiza consultas no sistema com base em números obtidos de uma base de dados interna.
 •	A aplicação coleta 3 informações relacionadas a cada número consultado e as salva em uma linha de um arquivo Excel.
 •	Esse processo é repetido 100 vezes, conforme a quantidade estipulada.
