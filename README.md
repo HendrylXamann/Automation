@@ -1,5 +1,5 @@
 # Webscraping1
-Automação de Webscraping para Demandas Internas da Empresa
+Automação de Webscraping para Demandas Internas de uma empresa
 Este projeto foi desenvolvido para atender a uma demanda interna da empresa em que trabalho. Com essa aplicação, conseguimos economizar de 2 a 3 horas de trabalho de um dos nossos colaboradores. A automação recolhe 3 informações do cliente e consolida em um arquivo excel, mas faz isso N vezes.
 
 Funcionalidades:
@@ -18,4 +18,6 @@ O código está organizado da seguinte forma:
 6.	Utilização de laços de repetição para realizar o processo de automação em loop.
 obs: Dentro do laço tem um try except que localiza linhas que não foram encontradas no sistema. 
 
-
+Vídeo da aplicação funcionando:
+Youtube: https://youtu.be/qpeJCwrS6WA
+Linkedin: 
